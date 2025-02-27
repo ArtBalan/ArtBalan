@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArtBalan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Advanced JavaScript
+- 👀 Create NodeJs tools
+- 🌱 I’m currently learning inkJs with react
 - 📫 How to reach me at artbalan20@gmail.com
